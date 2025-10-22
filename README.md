@@ -1,6 +1,6 @@
 # Mini_Project_MongoDB
 
-This repository contains a MongoDB mini-project showcasing basic database operations such as creating users, collections, inserting and querying data, managing indexes, and implementing user roles and privileges. It includes a JavaScript file with MongoDB commands and a directory of screenshots demonstrating authorization configurations.
+This repository contains a MongoDB mini-project showcasing basic database operations such as creating users, collections, inserting, querying data, managing indexes and implementing user roles and privileges. It includes a JavaScript file with MongoDB commands and a directory of screenshots demonstrating authorization configurations.
 
 ## Table of Contents
 
