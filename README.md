@@ -24,7 +24,7 @@ This repository contains a MongoDB mini-project showcasing basic database operat
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/panoschron97/Mini_Project_MongoDB.git
+   git clone https://github.com/GMKAKISTOS/Mini_Project_MongoDB.git
    cd Mini_Project_MongoDB
    ```
 
